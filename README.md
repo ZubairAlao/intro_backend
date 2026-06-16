@@ -7,5 +7,3 @@ git checkout -b feature-name
 git push -u origin feature-name
 git push   (every push after the first, on that branch)
 
-
-yFlFs7lQyYDIkfTW
