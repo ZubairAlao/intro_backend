@@ -4,9 +4,12 @@
   "description": "A tutorial for backend",
   "license": "ISC",
   "author": "Zubair Alao",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
